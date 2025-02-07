@@ -1,3 +1,12 @@
+p{
+    padding: 1em 0 0 5em;
+}
+
+#p2{
+    color: darkblue;
+    padding: 0 0 0 7.4em;
+}
+
 #myList{
     color: brown;
     font-size: 24px;
@@ -10,4 +19,8 @@
     font-size: 18px;
     font-weight: 500;
     padding: 4.5px 0 0 0;
+}
+
+#penguinOO{
+    padding: 475em 0 0 7.4em;
 }
